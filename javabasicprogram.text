@@ -4,6 +4,7 @@ class Helloworld{
 
       System.out.println("using java code I am learning github");
       System.out.println("this is a java code");
+      System.out.println("other than this we can do some operations like sum ,subtraction, divison, multiplication");
 
       }
 }
